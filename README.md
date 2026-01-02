@@ -7,8 +7,15 @@ A trained Medical Doctor, Molecular biologist and Epidemiologist with Expertise 
 * **MSc in Molecular biolgy** from Makerere Univesity
 * **MS in Clinical Epidemiology** from Weill Cornell, New York, US
 * **MD (Doctor of Medicine)** from University of Dar Es Salaam
-### Career and Affilitions
+### Career and Affiliations
 - Associate Professor at the Department of Biochemistry and Molecular biology at Catholic University of Health and Allied Sciences (CUHAS).
-- Adjuct Associate professor of Bioinformatics at Makerere University and Muhimbili Unoversity of Health and Allied Sciences (MUHAS).
+- Adjuct Associate professor of Bioinformatics at Makerere University and Muhimbili University of Health and Allied Sciences (MUHAS).
 - Teaching assistant for Bionforamtics for H3ABioNet.
 - Member of the Train-the_Trainer group for training Bioinformatics for African biologocal scientists undr H3ABioNet.
+### Code
+```bash
+$ singularty exec bioinfo --help
+# Working the HPC
+$ ls
+$ pwd
+```
